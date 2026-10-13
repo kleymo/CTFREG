@@ -1,0 +1,12 @@
+$kind: collection
+name: altayctf
+variables:
+  - key: json_web_token_0ljk
+    secret: true
+    disabled: false
+  - key: supabase_service_role_api_key_0b04
+    secret: true
+    disabled: false
+  - key: json_web_token_0gux
+    secret: true
+    disabled: false

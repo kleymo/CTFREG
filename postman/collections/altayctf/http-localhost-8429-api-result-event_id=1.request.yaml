@@ -1,0 +1,13 @@
+$kind: http-request
+name: http://localhost:8429/api/result?event_id=1
+description: ""
+url: http://localhost:8429/api/result?event_id=1
+method: GET
+queryParams:
+  event_id: "1"
+settings:
+  strictSSL: false
+  followRedirects: true
+  disableCookies: false
+  maxResponseSize: 52428800
+order: 1512378393077978
