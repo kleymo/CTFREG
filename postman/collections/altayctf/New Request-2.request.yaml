@@ -1,5 +1,0 @@
-$kind: http-request
-name: New Request
-url: http://localhost:8429/api/login/create
-method: GET
-order: 4426373416891038
